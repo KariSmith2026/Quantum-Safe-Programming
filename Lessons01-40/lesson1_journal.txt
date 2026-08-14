@@ -1,0 +1,21 @@
+Quantum‑Safe Programming Journal — Entry 1
+Date: July 27, 2026
+
+Objective:
+Begin structured exploration of post‑quantum cryptography within a controlled Debian 12 environment. Establish foundational understanding of quantum‑safe algorithms and document progress for professional portfolio development.
+
+Summary:
+Today I initiated my quantum‑safe programming workspace and confirmed my environment configuration. This marks the transition from theoretical quantum circuit training to applied cryptographic implementation. My focus is on understanding how lattice‑based algorithms such as Kyber and Dilithium replace RSA and ECC in secure communications.
+
+Technical Actions:
+• Created dedicated directory structure for quantum‑safe lessons.  
+• Verified terminal access and environment readiness.  
+• Drafted initial journal entry outlining objectives and learning milestones.  
+
+Reflection:
+This session reinforces my commitment to developing quantum‑ready architecture skills. By documenting each step, I’m building a transparent record of technical growth that demonstrates precision, consistency, and readiness for advanced cybersecurity roles.
+Next Steps:
+• Complete OpenPGP lab tomorrow morning.  
+• Install a post‑quantum cryptography library (Kyber or Dilithium).  
+• Generate and test a PQC keypair.  
+• Record results and performance metrics for future analysis.
