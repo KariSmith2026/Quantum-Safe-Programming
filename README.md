@@ -1,37 +1,18 @@
-# Quantum-Safe Programming
+<p align="center">
 
-This repository contains a structured collection of quantum-safe cryptography experiments developed in a controlled virtual lab environment. Each lesson demonstrates practical implementations of NIST-approved post-quantum algorithms, secure key exchange mechanisms, hybrid cryptographic workflows, and real-world PQC security patterns.
+  <!-- Core Technologies -->
+  <img src="https://img.shields.io/badge/Python-3.11-blue.svg" />
+  <img src="https://img.shields.io/badge/Post--Quantum-Cryptography-purple.svg" />
+  <img src="https://img.shields.io/badge/NIST-PQC-blue.svg" />
+  <img src="https://img.shields.io/badge/VirtualBox-Lab-orange.svg" />
 
-## Contents
+  <!-- Repo Health -->
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg" />
+  <img src="https://img.shields.io/github/repo-size/KariSmith2026/Quantum-Safe-Programming" />
+  <img src="https://img.shields.io/github/last-commit/KariSmith2026/Quantum-Safe-Programming" />
 
-### Lesson30 – PQC Secure Channel Modules
-A full suite of post-quantum secure channel components, including:
-- Hybrid handshake validation
-- Error correction
-- Replay protection
-- Session key rotation
-- Secure shutdown
-- Audit logging
+  <!-- Professional Identity -->
+  <img src="https://img.shields.io/badge/Engineer-Quantum%20Security-teal.svg" />
+  <img src="https://img.shields.io/badge/Focus-PQC%20%7C%20QNN%20%7C%20Hybrid%20Crypto-red.svg" />
 
-### Lessons01–40 – Quantum-Safe Curriculum
-A sequential set of lessons covering:
-- Foundational PQC concepts
-- Key generation and signing
-- Hybrid encryption
-- Secure update workflows
-- Benchmarking and audit logging
-- Multi-message protection
-- Secure channel persistence
-- Snapshot-based reproducibility
-
-## Purpose
-To build a reproducible, transparent, and practical quantum-safe learning environment that mirrors real-world post-quantum security workflows.
-
-## Technologies
-- Python (PQC modules)
-- VirtualBox (snapshot-based reproducibility)
-- Git/GitHub (version control)
-- NIST PQC algorithms (ML-KEM, ML-DSA, hybrid ECDH + PQC)
-
-## Author
-**Kari Smith**
+</p>
